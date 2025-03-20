@@ -37,10 +37,6 @@
 
 <img  width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="C#" />        
-
-<img  width="12" />
-
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30"  alt="GIT" />
 
 <img  width="12" />
