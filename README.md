@@ -6,7 +6,7 @@
   <tr>
     <!-- Lado Esquerdo: Neofetch -->
     <td valign="center">
-      <img src="out/fetch.png" alt="Github Fetch">
+      <img src="out/fetch.png" alt="Github Fetch" width="800">
     </td>
     <!-- Lado Direito: GIF -->
     <td valign="center">
