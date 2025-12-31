@@ -10,7 +10,7 @@
     </td>
     <!-- Lado Direito: GIF -->
     <td valign="center">
-      <img src="comfy-pixel-gif.gif" alt="Comfy Anime Scenery" width="200">
+      <img src="comfy-pixel-gif.gif" alt="Comfy Anime Scenery" width="100">
     </td>
   </tr>
 </table>
