@@ -1,10 +1,9 @@
-{
     "display_stats": [
-        "Luiz Caid",
-        "I enjoy to study theoretical things about computer science, data engineering, cybersecurity and intersections in these topics. I use Arch btw",
-        "Volta Redonda - RJ, Brazil",
-        "Cyber Horizon",
-        "proluizcaid@gmail.com",
+        "username",
+        "bio",
+        "location",
+        "company",
+        "email",
         "hireable",
         "followers",
         "following",
@@ -14,7 +13,7 @@
         "bytes_of_code",
         "created_at",
         "updated_at",
-        "C, Python, Java, TypeScript, SQL",
+        "languages",
         "total_commits",
         "total_issues",
         "total_prs"
