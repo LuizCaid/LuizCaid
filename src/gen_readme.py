@@ -253,7 +253,7 @@ def generate_readme(g: Github):
         gen_image(g)
         
         image_pattern = r'<div align=\'center\'>\s*<img src=\'out/fetch\.png\' alt=\'Github Fetch\'>\s*</div>'
-        image_content = "\n## Example Output\n<div align='center'>\n  <img src='out/fetch.png' alt='Github Fetch'>\n</div>\n"
+        image_content = ""
         
         try:
             with open("README.md", "r", encoding="utf-8") as f:
